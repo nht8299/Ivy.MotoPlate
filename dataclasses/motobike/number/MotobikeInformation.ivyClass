@@ -1,0 +1,10 @@
+MotobikeInformation #class
+motobike.number #namespace
+type String #field
+type PERSISTENT #fieldModifier
+chassisNumber String #field
+chassisNumber PERSISTENT #fieldModifier
+chassisFrameNumber String #field
+chassisFrameNumber PERSISTENT #fieldModifier
+description String #field
+description PERSISTENT #fieldModifier
